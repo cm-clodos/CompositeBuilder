@@ -27,6 +27,6 @@ pipeline {
        //        sh "mvn -Dmaven.test.skip=true package sonar:sonar"
        //     }
         // }
-      }
+     // }
    }
 }
