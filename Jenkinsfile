@@ -26,7 +26,7 @@ pipeline {
      //       withSonarQubeEnv('sonar server') {
        //        sh "mvn -Dmaven.test.skip=true package sonar:sonar"
        //     }
-         }
+        // }
       }
    }
 }
