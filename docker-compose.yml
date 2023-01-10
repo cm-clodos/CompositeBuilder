@@ -1,6 +1,6 @@
 version: "3"
 # clear all data, volumes, containers:
-# docker-compose up -d
+# docker-compose up -d zum starten
 #  docker-compose stop
 #  docker-compose rm
 #  docker volume rm compositebuilder_postgresql compositebuilder_postgresql_data compositebuilder_sonarqube_data compositebuilder_sonarqube_extensions compositebuilder_sonarqube_logs compositebuilder_jenkins_data
